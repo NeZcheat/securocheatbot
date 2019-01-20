@@ -1,12 +1,12 @@
 {
   "apps": [{
-    "name": "Zira",
+    "name": "SecuroCheat",
     "script": "./Cluster.js",
     "exec_interpreter": "node",
     "env": {
-      "PREFIX": "your desired prefix here",
-      "TOKEN": "your bot token here",
-      "OWNER": "your user id here",
+      "PREFIX": "!",
+      "TOKEN": "NTM2NTU4MjAzMjY2MTM4MTI5.DyYfVQ.Nnt9CYGgryH9dWW6PA_KQaHwnlc",
+      "OWNER": "470293175811047444",
       "DB_USER": "mongo username",
       "DB_PASS": "mongo password",
       "DB_HOST": "mongo host/collection",
@@ -19,3 +19,4 @@
     }
   }]
 }
+
